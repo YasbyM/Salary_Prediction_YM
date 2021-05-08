@@ -1,0 +1,2 @@
+# Salary_Prediction_YM
+A relevant question is what determines the salary and the jobs these engineers are offered right after graduation. Various factors such as college grades, candidate skills, the proximity of the college to industrial hubs, the specialization one have, market conditions for specific industries determine this. On the basis of these various factors, our objective is to determine the salary of an engineering graduate
